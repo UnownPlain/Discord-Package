@@ -41,11 +41,10 @@ export default function Privacy(): ReactElement {
 										<path d="M24 31.3q.7 0 1.2-.5t.5-1.2q0-.7-.5-1.2t-1.2-.5q-.7 0-1.2.5t-.5 1.2q0 .7.5 1.2t1.2.5Zm-1.5-6.7h3V14.25h-3ZM24 43.95q-7-1.75-11.5-8.125T8 21.85V9.95l16-6 16 6v11.9q0 7.6-4.5 13.975T24 43.95Z" />
 									</svg>
 									<div>
-										Discord Package <b className="px-1">does not</b> store any information about you. We do not use any third party services other
-										than Google Analytics. This website is directly hosted from the{' '}
+										Discord Package <b className="px-1">does not</b> store any information about you. We do not use any third party services. This website is directly hosted from the{' '}
 										<a
 											className="hover:transition-all duration-200 text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-600 font-bold"
-											href="https://github.com/peterhanania/discord-package"
+											href="https://github.com/UnownPlain/Discord-Package"
 											target="_blank"
 											rel="noreferrer">
 											Github Repository
@@ -53,15 +52,15 @@ export default function Privacy(): ReactElement {
 										using{' '}
 										<a
 											className="hover:transition-all duration-200 text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-600 font-bold"
-											href="https://github.com/peterhanania/Discord-Package/deployments/activity_log?environment=github-pages"
+											href="https://vercel.com"
 											target="_blank"
 											rel="noreferrer">
-											Github Pages
+											Vercel
 										</a>
 										. If you do not trust this website the{' '}
 										<a
 											className="hover:transition-all duration-200 text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-600 font-bold"
-											href="https://github.com/peterhanania/discord-package"
+											href="https://github.com/UnownPlain/Discord-Package"
 											target="_blank"
 											rel="noreferrer">
 											source code
