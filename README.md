@@ -1,3 +1,5 @@
+## This is my own self hosted version of [peterhanania's Discord-Package](https://github.com/peterhanania/Discord-Package). Visit it at [discordpackage.unownplain.ml](https://discordpackage.unownplain.ml/). The only things I changed is removing Google Analytics and the privacy notice. See the readme from the original repo below.
+
 <h1 align="left">
  <br>
   <a href="https://github.com/peterhanania"><img src="https://i.imgur.com/JXomrnb.png"></a>
